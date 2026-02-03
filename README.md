@@ -77,3 +77,56 @@ panopticon-lattice/
 ├── results/                # Generated reports, JSON logs, and plots
 ├── scripts/                # Experiment runners (phase1, phase2, phase3)
 └── tests/                  # Verification suites for core logic
+
+```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Python 3.10+
+* PyTorch 2.0+ (Required for Steering Hooks)
+
+### Installation
+
+```bash
+git clone [https://github.com/yourusername/panopticon-lattice.git](https://github.com/yourusername/panopticon-lattice.git)
+cd panopticon-lattice
+pip install -r requirements.txt
+
+```
+
+### Reproducing Results
+
+To replicate the "Long Horizon" experiment described in the report:
+
+```bash
+# 1. Run the full 1,000 step simulation
+python scripts/run_long_sim.py
+
+# 2. Visualize the Nash Convergence
+python scripts/visualize_results.py
+
+# 3. Generate the Final Analysis Report
+python scripts/final_report.py
+
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the AI Safety community. Areas of particular interest:
+
+* **New Attack Vectors:** Implementing subtle steganography (e.g., whitespace encoding, commit timestamp signaling).
+* **Constitutional AI:** Implementing constraint-based defenses alongside Activation Steering.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+
+```
+
+```
