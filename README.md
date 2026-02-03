@@ -1,4 +1,3 @@
-$content = @"
 # 🏗️ The Panopticon Lattice
 > *A Multi-Agent Evolutionary Simulation exploring adversarial economics, steganographic collusion, and AI steering.*
 
